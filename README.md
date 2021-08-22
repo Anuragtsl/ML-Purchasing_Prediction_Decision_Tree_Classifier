@@ -12,7 +12,7 @@ I've used [Jupyter Notebook]() for coding!
 
 Let’s look at the dataset. To make it interesting, let’s assume these are records of customers who purchased or did not purchase an iPhone. 
 
-![Image0]()
+![Image0](https://github.com/Anuragtsl/ML-Purchasing_Prediction_Decision_Tree_Classifier/blob/main/Images/0.png)
 
 The sample rows are shown above. 
 
@@ -21,9 +21,9 @@ The sample rows are shown above.
 # Preview
 
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Purchasing_Prediction_Decision_Tree_Classifier/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Purchasing_Prediction_Decision_Tree_Classifier/blob/main/Images/2.png)
 
 
 #Njoy!
